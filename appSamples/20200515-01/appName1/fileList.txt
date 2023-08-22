@@ -1,0 +1,5 @@
+appName1_version1.apk
+
+appName1_version2.apk
+
+appName1_隐私政策.txt [如果提供下载]
